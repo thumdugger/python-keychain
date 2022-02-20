@@ -20,7 +20,7 @@ def read(*names, **kwargs):
 
 setup(
     name='keychain',
-    version='0.0.0',
+    version='0.0.1',
     license='BSD-2-Clause',
     description='A package KeyChain enabled collections.',
     long_description='{}\n{}'.format(

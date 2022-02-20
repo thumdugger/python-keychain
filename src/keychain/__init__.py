@@ -8,4 +8,4 @@ These keychains can then be utilized by keychain enabled collections for getting
 ways, like one would in a posix filesystem.
 """
 
-__version__ = '0.0.0'
+__version__ = '0.0.1'

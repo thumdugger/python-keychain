@@ -20,7 +20,7 @@ project = 'keychain'
 year = '2022'
 author = 'Scott Barnett'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '0.0.0'
+version = release = '0.0.1'
 
 pygments_style = 'trac'
 templates_path = ['.']
